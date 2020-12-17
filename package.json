@@ -1,0 +1,23 @@
+{
+  "name": "create-react-app-template-clean",
+  "version": "1.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template"
+  ],
+  "description": "Clean template for pet projects",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devinhaynes/create-react-app-template-clean.git",
+    "directory": "/"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=10"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
